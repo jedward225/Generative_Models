@@ -1,0 +1,9 @@
+seed: 2024
+batch_size: 500
+lr: 3e-4
+block_num: 4
+input_dim: 2
+hidden_dim: 1024
+z_dim: 2
+epochs: 5000
+inference_only: True
