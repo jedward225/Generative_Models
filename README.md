@@ -106,3 +106,7 @@ This implementation draws from seminal papers in generative modeling:
 ---
 
 This project demonstrates comprehensive understanding of deep generative models from mathematical foundations to practical implementations, showcasing both theoretical knowledge and applied machine learning expertise. 
+
+About the Notes:
+
+- It still need a update since this is a very early version ;(
